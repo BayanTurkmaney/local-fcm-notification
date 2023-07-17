@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "notification-app-f5ea4",
+    "staging": "notification-app-f5ea4"
+  },
+  "targets": {},
+  "etags": {}
+}
